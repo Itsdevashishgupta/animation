@@ -24,7 +24,7 @@ import React, { useState } from "react";
         </div>
          <div className="container contact_div">
             <div className="row">
-                <div className="col-md-6 col-10">
+                <div className="col-md-6 col-10 mx-auto">
                 <form onSubmit={forms}>
                 <div class="mb-3">
   <label for="exampleFormControlInput1" class="form-label">
